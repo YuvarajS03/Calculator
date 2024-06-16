@@ -46,3 +46,8 @@ form .display input{
 form input.equal{
     width: 125px;
 }
+@media screen and (max-width: 600px) {
+    .container {
+      background: aquamarine;
+    }
+  }
